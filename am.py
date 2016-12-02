@@ -1,6 +1,8 @@
 import numpy as np
 from itertools import combinations
 
+MAX_LOOP = 10000
+
 def load_data(filename):
     with open(filename) as f:
         lines = [x.ljust(35, ' ').replace(' ','0').replace('#','1') for x in f.read().splitlines()]
@@ -38,14 +40,16 @@ class AM:
         predict iteratively until converge
         """
         p0 = self.f(x.dot(self.w0))
-        while True:
+        for i in range(MAX_LOOP): # at most iterate MAX_LOOP times
+        # while True:
             p0_temp = self.f(p0.dot(self.w0))
             if np.array_equal(p0, p0_temp):
                 break
             else:
                 p0 = p0_temp
         p = self.f(x.dot(self.w))
-        while True:
+        for i in range(MAX_LOOP): # at most iterate MAX_LOOP times
+        # while True:
             p_temp = self.f(p.dot(self.w))
             if np.array_equal(p, p_temp):
                 break
@@ -64,16 +68,29 @@ if __name__ == "__main__":
     number_chose = [3,6,7,8] # not
 
 
-    for c in combinations(range(10), 5):
-        part_train_data = train_data[np.array(c)]
-        # print part_train_data.shape
-        # print part_train_data
+    for num in range(1,7):
+        for c in combinations(range(10), num):
+            # print c
+            part_train_data = train_data[np.array(c)]
+            am = AM(part_train_data)
 
-        am = AM(part_train_data)
-        pre = am.predict(part_train_data)
-        if np.array_equal(pre[0], part_train_data):
-            print c
-        # print np.array_equal(pre[0], part_train_data)
-        # print np.array_equal(pre[1], part_train_data)
-        # print 'predict(w) == predict(w0):', np.array_equal(pre[0], pre[1])
-
+            for p in [(0,am.predict_converge(part_train_data)), (1,am.predict(part_train_data))]:
+                mode = "converge" if p[0]==0 else "direct"
+                pre = p[1]
+                p0, p1= False, False
+                if np.array_equal(pre[0], part_train_data):
+                    p0 = True
+                if np.array_equal(pre[1], part_train_data):
+                    p1 = True
+                if p0 or p1:
+                    print mode, c,
+                    if p0:
+                        print "p",
+                    if p1:
+                        print "p0",
+                    print ""
+                # if not np.array_equal(pre[0], pre[1]):
+                #     print c, "pre[0] != pre[1]"
+                #     # print "pre[0]:", pre[0]
+                #     # print "pre[1]:", pre[1]
+                #     print "pre[0] - pre[1]:", pre[0]-pre[1]
