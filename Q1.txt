@@ -1,0 +1,456 @@
+converge (0,) p p0
+direct (0,) p p0
+converge (1,) p p0
+direct (1,) p p0
+converge (2,) p p0
+direct (2,) p p0
+converge (3,) p p0
+direct (3,) p p0
+converge (4,) p p0
+direct (4,) p p0
+converge (5,) p p0
+direct (5,) p p0
+converge (6,) p p0
+direct (6,) p p0
+converge (7,) p p0
+direct (7,) p p0
+converge (8,) p p0
+direct (8,) p p0
+converge (9,) p p0
+direct (9,) p p0
+converge (0, 1) p p0
+direct (0, 1) p p0
+converge (0, 2) p p0
+direct (0, 2) p p0
+converge (0, 3) p p0
+direct (0, 3) p p0
+converge (0, 4) p p0
+direct (0, 4) p p0
+converge (0, 5) p p0
+direct (0, 5) p p0
+converge (0, 6) p p0
+direct (0, 6) p p0
+converge (0, 7) p p0
+direct (0, 7) p p0
+converge (0, 8) p p0
+direct (0, 8) p p0
+converge (0, 9) p p0
+direct (0, 9) p p0
+converge (1, 2) p p0
+direct (1, 2) p p0
+converge (1, 3) p p0
+direct (1, 3) p p0
+converge (1, 4) p p0
+direct (1, 4) p p0
+converge (1, 5) p p0
+direct (1, 5) p p0
+converge (1, 6) p p0
+direct (1, 6) p p0
+converge (1, 7) p p0
+direct (1, 7) p p0
+converge (1, 8) p p0
+direct (1, 8) p p0
+converge (1, 9) p p0
+direct (1, 9) p p0
+converge (2, 3) p p0
+direct (2, 3) p p0
+converge (2, 4) p p0
+direct (2, 4) p p0
+converge (2, 5) p p0
+direct (2, 5) p p0
+converge (2, 6) p p0
+direct (2, 6) p p0
+converge (2, 7) p p0
+direct (2, 7) p p0
+converge (2, 8) p p0
+direct (2, 8) p p0
+converge (2, 9) p p0
+direct (2, 9) p p0
+converge (3, 4) p p0
+direct (3, 4) p p0
+converge (3, 5) p p0
+direct (3, 5) p p0
+converge (3, 6) p p0
+direct (3, 6) p p0
+converge (3, 7) p p0
+direct (3, 7) p p0
+converge (3, 8) p p0
+direct (3, 8) p p0
+converge (3, 9) p p0
+direct (3, 9) p p0
+converge (4, 5) p p0
+direct (4, 5) p p0
+converge (4, 6) p p0
+direct (4, 6) p p0
+converge (4, 7) p p0
+direct (4, 7) p p0
+converge (4, 8) p p0
+direct (4, 8) p p0
+converge (4, 9) p p0
+direct (4, 9) p p0
+converge (5, 6) p p0
+direct (5, 6) p p0
+converge (5, 7) p p0
+direct (5, 7) p p0
+converge (5, 8) p p0
+direct (5, 8) p p0
+converge (5, 9) p p0
+direct (5, 9) p p0
+converge (6, 7) p p0
+direct (6, 7) p p0
+converge (6, 8) p p0
+direct (6, 8) p p0
+converge (6, 9) p p0
+direct (6, 9) p p0
+converge (7, 8) p p0
+direct (7, 8) p p0
+converge (7, 9) p p0
+direct (7, 9) p p0
+converge (8, 9) p p0
+direct (8, 9) p p0
+converge (0, 1, 2) p p0
+direct (0, 1, 2) p p0
+converge (0, 1, 3) p p0
+direct (0, 1, 3) p p0
+converge (0, 1, 4) p p0
+direct (0, 1, 4) p p0
+converge (0, 1, 5) p p0
+direct (0, 1, 5) p p0
+converge (0, 1, 6) p p0
+direct (0, 1, 6) p p0
+converge (0, 1, 7) p p0
+direct (0, 1, 7) p p0
+converge (0, 1, 8) p p0
+direct (0, 1, 8) p p0
+converge (0, 1, 9) p p0
+direct (0, 1, 9) p p0
+converge (0, 2, 4) p p0
+direct (0, 2, 4) p p0
+converge (0, 2, 5) p p0
+direct (0, 2, 5) p p0
+converge (0, 2, 6) p p0
+direct (0, 2, 6) p p0
+converge (0, 2, 7) p p0
+direct (0, 2, 7) p p0
+converge (0, 2, 8) p
+direct (0, 2, 8) p
+converge (0, 2, 9) p
+direct (0, 2, 9) p
+converge (0, 3, 4) p p0
+direct (0, 3, 4) p p0
+converge (0, 3, 7) p
+direct (0, 3, 7) p
+converge (0, 4, 5) p p0
+direct (0, 4, 5) p p0
+converge (0, 4, 6) p p0
+direct (0, 4, 6) p p0
+converge (0, 4, 7) p p0
+direct (0, 4, 7) p p0
+converge (0, 4, 8) p p0
+direct (0, 4, 8) p p0
+converge (0, 4, 9) p p0
+direct (0, 4, 9) p p0
+converge (0, 5, 7) p p0
+direct (0, 5, 7) p p0
+converge (0, 6, 7) p p0
+direct (0, 6, 7) p p0
+converge (0, 7, 8) p p0
+direct (0, 7, 8) p p0
+converge (0, 7, 9) p p0
+direct (0, 7, 9) p p0
+converge (1, 2, 3) p p0
+direct (1, 2, 3) p p0
+converge (1, 2, 4) p p0
+direct (1, 2, 4) p p0
+converge (1, 2, 5) p p0
+direct (1, 2, 5) p p0
+converge (1, 2, 6) p p0
+direct (1, 2, 6) p p0
+converge (1, 2, 7) p p0
+direct (1, 2, 7) p p0
+converge (1, 2, 8) p p0
+direct (1, 2, 8) p p0
+converge (1, 2, 9) p p0
+direct (1, 2, 9) p p0
+converge (1, 3, 4) p p0
+direct (1, 3, 4) p p0
+converge (1, 3, 5) p p0
+direct (1, 3, 5) p p0
+converge (1, 3, 6) p p0
+direct (1, 3, 6) p p0
+converge (1, 3, 7) p p0
+direct (1, 3, 7) p p0
+converge (1, 3, 8) p p0
+direct (1, 3, 8) p p0
+converge (1, 3, 9) p p0
+direct (1, 3, 9) p p0
+converge (1, 4, 5) p p0
+direct (1, 4, 5) p p0
+converge (1, 4, 6) p p0
+direct (1, 4, 6) p p0
+converge (1, 4, 7) p p0
+direct (1, 4, 7) p p0
+converge (1, 4, 8) p p0
+direct (1, 4, 8) p p0
+converge (1, 4, 9) p p0
+direct (1, 4, 9) p p0
+converge (1, 5, 6) p p0
+direct (1, 5, 6) p p0
+converge (1, 5, 7) p p0
+direct (1, 5, 7) p p0
+converge (1, 5, 8) p p0
+direct (1, 5, 8) p p0
+converge (1, 5, 9) p p0
+direct (1, 5, 9) p p0
+converge (1, 6, 7) p p0
+direct (1, 6, 7) p p0
+converge (1, 6, 8) p p0
+direct (1, 6, 8) p p0
+converge (1, 6, 9) p p0
+direct (1, 6, 9) p p0
+converge (1, 7, 8) p p0
+direct (1, 7, 8) p p0
+converge (1, 7, 9) p p0
+direct (1, 7, 9) p p0
+converge (1, 8, 9) p p0
+direct (1, 8, 9) p p0
+converge (2, 3, 4) p p0
+direct (2, 3, 4) p p0
+converge (2, 3, 5) p
+direct (2, 3, 5) p
+converge (2, 3, 7) p p0
+direct (2, 3, 7) p p0
+converge (2, 4, 5) p p0
+direct (2, 4, 5) p p0
+converge (2, 4, 6) p p0
+direct (2, 4, 6) p p0
+converge (2, 4, 7) p p0
+direct (2, 4, 7) p p0
+converge (2, 4, 8) p p0
+direct (2, 4, 8) p p0
+converge (2, 4, 9) p p0
+direct (2, 4, 9) p p0
+converge (2, 5, 7) p p0
+direct (2, 5, 7) p p0
+converge (2, 5, 8) p p0
+direct (2, 5, 8) p p0
+converge (2, 6, 7) p p0
+direct (2, 6, 7) p p0
+converge (2, 6, 9) p
+direct (2, 6, 9) p
+converge (2, 7, 8) p p0
+direct (2, 7, 8) p p0
+converge (2, 7, 9) p p0
+direct (2, 7, 9) p p0
+converge (3, 4, 5) p p0
+direct (3, 4, 5) p p0
+converge (3, 4, 6) p p0
+direct (3, 4, 6) p p0
+converge (3, 4, 7) p p0
+direct (3, 4, 7) p p0
+converge (3, 4, 8) p
+direct (3, 4, 8) p
+converge (3, 4, 9) p p0
+direct (3, 4, 9) p p0
+converge (3, 5, 7) p p0
+direct (3, 5, 7) p p0
+converge (3, 6, 7) p p0
+direct (3, 6, 7) p p0
+converge (3, 7, 8) p
+direct (3, 7, 8) p
+converge (3, 7, 9) p
+direct (3, 7, 9) p
+converge (4, 5, 7) p p0
+direct (4, 5, 7) p p0
+converge (4, 5, 8) p p0
+direct (4, 5, 8) p p0
+converge (4, 5, 9) p
+direct (4, 5, 9) p
+converge (4, 6, 7) p p0
+direct (4, 6, 7) p p0
+converge (4, 6, 8) p
+direct (4, 6, 8) p
+converge (4, 6, 9) p p0
+direct (4, 6, 9) p p0
+converge (4, 7, 8) p p0
+direct (4, 7, 8) p p0
+converge (4, 7, 9) p p0
+direct (4, 7, 9) p p0
+converge (4, 8, 9) p p0
+direct (4, 8, 9) p p0
+converge (5, 6, 7) p
+direct (5, 6, 7) p
+converge (5, 7, 8) p p0
+direct (5, 7, 8) p p0
+converge (5, 7, 9) p p0
+direct (5, 7, 9) p p0
+converge (6, 7, 8) p p0
+direct (6, 7, 8) p p0
+converge (6, 7, 9) p p0
+direct (6, 7, 9) p p0
+converge (7, 8, 9) p p0
+direct (7, 8, 9) p p0
+converge (0, 1, 2, 4) p p0
+direct (0, 1, 2, 4) p p0
+converge (0, 1, 2, 5) p p0
+direct (0, 1, 2, 5) p p0
+converge (0, 1, 2, 6) p p0
+direct (0, 1, 2, 6) p p0
+converge (0, 1, 2, 7) p
+direct (0, 1, 2, 7) p
+converge (0, 1, 2, 8) p
+direct (0, 1, 2, 8) p
+converge (0, 1, 3, 4) p p0
+direct (0, 1, 3, 4) p p0
+converge (0, 1, 3, 7) p
+direct (0, 1, 3, 7) p
+converge (0, 1, 4, 5) p p0
+direct (0, 1, 4, 5) p p0
+converge (0, 1, 4, 6) p p0
+direct (0, 1, 4, 6) p p0
+converge (0, 1, 4, 7) p p0
+direct (0, 1, 4, 7) p p0
+converge (0, 1, 4, 8) p p0
+direct (0, 1, 4, 8) p p0
+converge (0, 1, 4, 9) p p0
+direct (0, 1, 4, 9) p p0
+converge (0, 1, 5, 7) p p0
+direct (0, 1, 5, 7) p p0
+converge (0, 1, 6, 7) p p0
+direct (0, 1, 6, 7) p p0
+converge (0, 1, 7, 8) p p0
+direct (0, 1, 7, 8) p p0
+converge (0, 1, 7, 9) p p0
+direct (0, 1, 7, 9) p p0
+converge (0, 2, 3, 4) p
+direct (0, 2, 3, 4) p
+converge (0, 2, 4, 5) p
+direct (0, 2, 4, 5) p
+converge (0, 2, 4, 6) p
+direct (0, 2, 4, 6) p
+converge (0, 2, 4, 7) p p0
+direct (0, 2, 4, 7) p p0
+converge (0, 2, 5, 7) p p0
+direct (0, 2, 5, 7) p p0
+converge (0, 2, 6, 7) p p0
+direct (0, 2, 6, 7) p p0
+converge (0, 3, 4, 7) p p0
+direct (0, 3, 4, 7) p p0
+converge (0, 4, 5, 7) p
+direct (0, 4, 5, 7) p
+converge (0, 4, 6, 7) p
+direct (0, 4, 6, 7) p
+converge (0, 4, 7, 8) p
+direct (0, 4, 7, 8) p
+converge (0, 4, 7, 9) p p0
+direct (0, 4, 7, 9) p p0
+converge (1, 2, 3, 4) p p0
+direct (1, 2, 3, 4) p p0
+converge (1, 2, 4, 5) p
+direct (1, 2, 4, 5) p
+converge (1, 2, 4, 6) p p0
+direct (1, 2, 4, 6) p p0
+converge (1, 2, 4, 8) p
+direct (1, 2, 4, 8) p
+converge (1, 2, 5, 8) p
+direct (1, 2, 5, 8) p
+converge (1, 2, 6, 7) p
+direct (1, 2, 6, 7) p
+converge (1, 3, 4, 5) p
+direct (1, 3, 4, 5) p
+converge (1, 3, 4, 6) p p0
+direct (1, 3, 4, 6) p p0
+converge (1, 3, 4, 7) p p0
+direct (1, 3, 4, 7) p p0
+converge (1, 3, 4, 9) p
+direct (1, 3, 4, 9) p
+converge (1, 3, 5, 7) p p0
+direct (1, 3, 5, 7) p p0
+converge (1, 3, 6, 7) p
+direct (1, 3, 6, 7) p
+converge (1, 3, 7, 8) p
+direct (1, 3, 7, 8) p
+converge (1, 4, 5, 7) p p0
+direct (1, 4, 5, 7) p p0
+converge (1, 4, 5, 8) p
+direct (1, 4, 5, 8) p
+converge (1, 4, 6, 7) p p0
+direct (1, 4, 6, 7) p p0
+converge (1, 4, 6, 8) p
+direct (1, 4, 6, 8) p
+converge (1, 4, 6, 9) p p0
+direct (1, 4, 6, 9) p p0
+converge (1, 4, 7, 8) p p0
+direct (1, 4, 7, 8) p p0
+converge (1, 4, 7, 9) p p0
+direct (1, 4, 7, 9) p p0
+converge (1, 4, 8, 9) p
+direct (1, 4, 8, 9) p
+converge (1, 5, 6, 7) p
+direct (1, 5, 6, 7) p
+converge (1, 5, 7, 8) p p0
+direct (1, 5, 7, 8) p p0
+converge (1, 5, 7, 9) p
+direct (1, 5, 7, 9) p
+converge (1, 6, 7, 8) p
+direct (1, 6, 7, 8) p
+converge (1, 6, 7, 9) p p0
+direct (1, 6, 7, 9) p p0
+converge (1, 7, 8, 9) p
+direct (1, 7, 8, 9) p
+converge (2, 4, 5, 7) p
+direct (2, 4, 5, 7) p
+converge (2, 4, 6, 7) p p0
+direct (2, 4, 6, 7) p p0
+converge (2, 4, 7, 8) p
+direct (2, 4, 7, 8) p
+converge (3, 4, 7, 9) p
+direct (3, 4, 7, 9) p
+converge (4, 5, 7, 8) p p0
+direct (4, 5, 7, 8) p p0
+converge (4, 5, 7, 9) p p0
+direct (4, 5, 7, 9) p p0
+converge (4, 6, 7, 8) p
+direct (4, 6, 7, 8) p
+converge (4, 6, 7, 9) p p0
+direct (4, 6, 7, 9) p p0
+converge (4, 7, 8, 9) p
+direct (4, 7, 8, 9) p
+converge (0, 1, 2, 3, 4) p
+direct (0, 1, 2, 3, 4) p
+converge (0, 1, 2, 4, 6) p
+direct (0, 1, 2, 4, 6) p
+converge (0, 1, 2, 4, 7) p p0
+direct (0, 1, 2, 4, 7) p p0
+converge (0, 1, 3, 4, 7) p p0
+direct (0, 1, 3, 4, 7) p p0
+converge (0, 1, 4, 5, 7) p
+direct (0, 1, 4, 5, 7) p
+converge (0, 1, 4, 6, 7) p
+direct (0, 1, 4, 6, 7) p
+converge (0, 1, 4, 7, 8) p
+direct (0, 1, 4, 7, 8) p
+converge (0, 1, 4, 7, 9) p
+direct (0, 1, 4, 7, 9) p
+converge (1, 2, 3, 4, 7) p
+direct (1, 2, 3, 4, 7) p
+converge (1, 2, 4, 5, 7) p
+direct (1, 2, 4, 5, 7) p
+converge (1, 2, 4, 6, 7) p
+direct (1, 2, 4, 6, 7) p
+converge (1, 2, 4, 7, 8) p p0
+direct (1, 2, 4, 7, 8) p p0
+converge (1, 2, 4, 7, 9) p
+direct (1, 2, 4, 7, 9) p
+converge (1, 3, 4, 7, 8) p
+direct (1, 3, 4, 7, 8) p
+converge (1, 3, 4, 7, 9) p
+direct (1, 3, 4, 7, 9) p
+converge (1, 4, 5, 7, 8) p p0
+direct (1, 4, 5, 7, 8) p p0
+converge (1, 4, 5, 7, 9) p
+direct (1, 4, 5, 7, 9) p
+converge (1, 4, 6, 7, 8) p
+direct (1, 4, 6, 7, 8) p
+converge (1, 4, 6, 7, 9) p p0
+direct (1, 4, 6, 7, 9) p p0

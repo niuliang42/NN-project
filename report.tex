@@ -1,0 +1,119 @@
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{listings}
+\usepackage{tikz}
+\usetikzlibrary{automata,positioning}
+% \usepackage[margin=0.5in]{geometry}
+%\usepackage{fullpage}
+
+
+\title{Neural Network Computing\\Homework 5}
+\author{Liang Niu\\N19486574\\ln932@nyu.edu}
+
+\begin{document}
+
+  % Title Page
+  \maketitle % Creates the titlepage
+  %\pagenumbering{gobble} % Turns off page numbering
+  %\newpage % Starts a new page
+  \pagenumbering{arabic} % Turns on page numbering
+
+  % Body
+  \section{Program}
+  \subsection{Source Code}
+    %\paragraph{(a)}
+    SOURCE CODE (Python 2.7, numpy needed, anaconda recommended):
+    \lstinputlisting[language=Python]{am.py}
+  \subsection{Some Explaination}
+  \paragraph{Run Environment}
+  I also included a source file of my program in the zipped file. If you want to
+  run it, please make sure that you have numpy installed. I am using Python 2.7
+  in this project. Also Anaconda is highly recommended.
+  \paragraph{Parameters}
+  There are some parameters in this program that one can adjust to see the
+  result. I put them on the begining of the source code and make sure they are
+  well commented so that you can know the meaning for every parameter. 
+  \paragraph{Toggle}
+  There are three main questions so there are three corresponding parts in the
+  ``main'' part of the program. And before every part, there is a ``if''
+  statement to let you decide whether you want to run this part. Every part is
+  indepent with each other. By default, they will all run.
+  \paragraph{Run Time}
+  On my machine(Macbook Pro 13, early 2015), the prgram need about half a
+  minute to finish. This may be different from 10s to 5m I guess.
+  \paragraph{Others}
+  Because the output will be a lot, I suggest to use the following command to
+  redirect the output:\\
+  \begin{lstlisting}[language=Bash]
+  python am.py | tee output.txt
+  \end{lstlisting}
+
+  \section{Analysis and Answers}
+  \subsection{Program}
+  I wrote a class called AM to do the job. It can predict in two policies:
+  direct predict and predict until we get to a converge or run out of loop
+  times. Also you can choose to use w or w0, w is the weight matrix that
+  diagonal elements all untouched, w0 is the weight matrix that diagonal
+  elements are all set to 0. Which means I implemented 4 kinds of predict
+  methods:(direct, w), (direct, w0), (converge, w), (converge, w0). You can see
+  in the Q1 part code, I tried all of 4 kinds of prediction.\\
+  display() can help to display the patterns for you to recognize.\\
+  disturbe() is to help make noise into the data.
+  
+  \subsection{Q1}
+  The output for Q1 is in a manner that ``method,numbers,weight''.\\
+  ``method'' maybe direct or converge. Direct means predict just use $w*input$,
+  ``converge'' means predict iteratively until converge or reach the maximum
+  loop times.\\
+  ``numbers'' is the working combination of the patterns.\\
+  ``weight'' may be ``p'' or ``p0''. ``p'' means we get this result by using the
+  weight matrix with digonal elements stay untouched. ``p0'' means we get this
+  result by using the weght matrix with all diagonal elemets set 0.\\
+  As we can see, there are 456 kinds of combinations that can be stored and
+  retrived smoothly. Thus the maximum capacity of AM in this problem is 5.\\
+  The full results of combinations that can be stored is attached.
+
+
+
+  \subsection{Q2}
+  For this question, I just do the experiments under those patterns that can be
+  stored. And I implemented two kinds of noise: the first one is that missing,
+  which turn some points in the pattern into 0, the second one is mistake, which
+  is to flip some points in the pattern.\\
+  Observe the result, we can conclude that:\\
+  1. When number of errors increased, error rate increased.\\
+  2. When number of patterns stored increased, the number of errors that it can
+  tolerate decreased.\\
+  3. When error number is big enough, the network will only give out wrong
+  result.\\
+
+  \subsection{Q3}
+  For this question, I just do the experiments under those patterns that can be
+  stored. And I implemented using direct predict with w0. Typically, the
+  spurious patterns looks like some of the train patterns very much, just with
+  some points flipped or missing. For example, there are some spurious
+  patterns(1 is \#, -1 is space, 0 is ?) in the following figure.\\
+  \begin{figure}
+  \begin{verbatim}
+              ###  |  ###  |     #
+             #   # | #   # |    ## 
+             #   # |    #  |  ?# #
+              ?##? |   #   |  #  #
+                 # |   #   | #####
+                 # |       | ?  ?# 
+             ####  | ##### |     # 
+             ---------------------
+              #### | ##### |  ###
+             #   ? | #     | #   #
+             #     | #     |     #
+             ####  | # ##  |   ##
+             #   # |     # |     #
+             #   # |     # |     #
+              ###  | ####  |  ###
+             ---------------------
+  \end{verbatim}
+  \end{figure}
+  In the number 9, some points are missing. In the number 2, some points are
+  flipped(from 1 to -1), in the number 4, some points which should be -1 are missing.\\
+\end{document}

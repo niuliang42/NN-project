@@ -1,0 +1,1788 @@
+********************************************************************************
+# first question #
+converge (0,) p p0 
+direct (0,) p p0 
+converge (1,) p p0 
+direct (1,) p p0 
+converge (2,) p p0 
+direct (2,) p p0 
+converge (3,) p p0 
+direct (3,) p p0 
+converge (4,) p p0 
+direct (4,) p p0 
+converge (5,) p p0 
+direct (5,) p p0 
+converge (6,) p p0 
+direct (6,) p p0 
+converge (7,) p p0 
+direct (7,) p p0 
+converge (8,) p p0 
+direct (8,) p p0 
+converge (9,) p p0 
+direct (9,) p p0 
+converge (0, 1) p p0 
+direct (0, 1) p p0 
+converge (0, 2) p p0 
+direct (0, 2) p p0 
+converge (0, 3) p p0 
+direct (0, 3) p p0 
+converge (0, 4) p p0 
+direct (0, 4) p p0 
+converge (0, 5) p p0 
+direct (0, 5) p p0 
+converge (0, 6) p p0 
+direct (0, 6) p p0 
+converge (0, 7) p p0 
+direct (0, 7) p p0 
+converge (0, 8) p p0 
+direct (0, 8) p p0 
+converge (0, 9) p p0 
+direct (0, 9) p p0 
+converge (1, 2) p p0 
+direct (1, 2) p p0 
+converge (1, 3) p p0 
+direct (1, 3) p p0 
+converge (1, 4) p p0 
+direct (1, 4) p p0 
+converge (1, 5) p p0 
+direct (1, 5) p p0 
+converge (1, 6) p p0 
+direct (1, 6) p p0 
+converge (1, 7) p p0 
+direct (1, 7) p p0 
+converge (1, 8) p p0 
+direct (1, 8) p p0 
+converge (1, 9) p p0 
+direct (1, 9) p p0 
+converge (2, 3) p p0 
+direct (2, 3) p p0 
+converge (2, 4) p p0 
+direct (2, 4) p p0 
+converge (2, 5) p p0 
+direct (2, 5) p p0 
+converge (2, 6) p p0 
+direct (2, 6) p p0 
+converge (2, 7) p p0 
+direct (2, 7) p p0 
+converge (2, 8) p p0 
+direct (2, 8) p p0 
+converge (2, 9) p p0 
+direct (2, 9) p p0 
+converge (3, 4) p p0 
+direct (3, 4) p p0 
+converge (3, 5) p p0 
+direct (3, 5) p p0 
+converge (3, 6) p p0 
+direct (3, 6) p p0 
+converge (3, 7) p p0 
+direct (3, 7) p p0 
+converge (3, 8) p p0 
+direct (3, 8) p p0 
+converge (3, 9) p p0 
+direct (3, 9) p p0 
+converge (4, 5) p p0 
+direct (4, 5) p p0 
+converge (4, 6) p p0 
+direct (4, 6) p p0 
+converge (4, 7) p p0 
+direct (4, 7) p p0 
+converge (4, 8) p p0 
+direct (4, 8) p p0 
+converge (4, 9) p p0 
+direct (4, 9) p p0 
+converge (5, 6) p p0 
+direct (5, 6) p p0 
+converge (5, 7) p p0 
+direct (5, 7) p p0 
+converge (5, 8) p p0 
+direct (5, 8) p p0 
+converge (5, 9) p p0 
+direct (5, 9) p p0 
+converge (6, 7) p p0 
+direct (6, 7) p p0 
+converge (6, 8) p p0 
+direct (6, 8) p p0 
+converge (6, 9) p p0 
+direct (6, 9) p p0 
+converge (7, 8) p p0 
+direct (7, 8) p p0 
+converge (7, 9) p p0 
+direct (7, 9) p p0 
+converge (8, 9) p p0 
+direct (8, 9) p p0 
+converge (0, 1, 2) p p0 
+direct (0, 1, 2) p p0 
+converge (0, 1, 3) p p0 
+direct (0, 1, 3) p p0 
+converge (0, 1, 4) p p0 
+direct (0, 1, 4) p p0 
+converge (0, 1, 5) p p0 
+direct (0, 1, 5) p p0 
+converge (0, 1, 6) p p0 
+direct (0, 1, 6) p p0 
+converge (0, 1, 7) p p0 
+direct (0, 1, 7) p p0 
+converge (0, 1, 8) p p0 
+direct (0, 1, 8) p p0 
+converge (0, 1, 9) p p0 
+direct (0, 1, 9) p p0 
+converge (0, 2, 4) p p0 
+direct (0, 2, 4) p p0 
+converge (0, 2, 5) p p0 
+direct (0, 2, 5) p p0 
+converge (0, 2, 6) p p0 
+direct (0, 2, 6) p p0 
+converge (0, 2, 7) p p0 
+direct (0, 2, 7) p p0 
+converge (0, 2, 8) p 
+direct (0, 2, 8) p 
+converge (0, 2, 9) p 
+direct (0, 2, 9) p 
+converge (0, 3, 4) p p0 
+direct (0, 3, 4) p p0 
+converge (0, 3, 7) p 
+direct (0, 3, 7) p 
+converge (0, 4, 5) p p0 
+direct (0, 4, 5) p p0 
+converge (0, 4, 6) p p0 
+direct (0, 4, 6) p p0 
+converge (0, 4, 7) p p0 
+direct (0, 4, 7) p p0 
+converge (0, 4, 8) p p0 
+direct (0, 4, 8) p p0 
+converge (0, 4, 9) p p0 
+direct (0, 4, 9) p p0 
+converge (0, 5, 7) p p0 
+direct (0, 5, 7) p p0 
+converge (0, 6, 7) p p0 
+direct (0, 6, 7) p p0 
+converge (0, 7, 8) p p0 
+direct (0, 7, 8) p p0 
+converge (0, 7, 9) p p0 
+direct (0, 7, 9) p p0 
+converge (1, 2, 3) p p0 
+direct (1, 2, 3) p p0 
+converge (1, 2, 4) p p0 
+direct (1, 2, 4) p p0 
+converge (1, 2, 5) p p0 
+direct (1, 2, 5) p p0 
+converge (1, 2, 6) p p0 
+direct (1, 2, 6) p p0 
+converge (1, 2, 7) p p0 
+direct (1, 2, 7) p p0 
+converge (1, 2, 8) p p0 
+direct (1, 2, 8) p p0 
+converge (1, 2, 9) p p0 
+direct (1, 2, 9) p p0 
+converge (1, 3, 4) p p0 
+direct (1, 3, 4) p p0 
+converge (1, 3, 5) p p0 
+direct (1, 3, 5) p p0 
+converge (1, 3, 6) p p0 
+direct (1, 3, 6) p p0 
+converge (1, 3, 7) p p0 
+direct (1, 3, 7) p p0 
+converge (1, 3, 8) p p0 
+direct (1, 3, 8) p p0 
+converge (1, 3, 9) p p0 
+direct (1, 3, 9) p p0 
+converge (1, 4, 5) p p0 
+direct (1, 4, 5) p p0 
+converge (1, 4, 6) p p0 
+direct (1, 4, 6) p p0 
+converge (1, 4, 7) p p0 
+direct (1, 4, 7) p p0 
+converge (1, 4, 8) p p0 
+direct (1, 4, 8) p p0 
+converge (1, 4, 9) p p0 
+direct (1, 4, 9) p p0 
+converge (1, 5, 6) p p0 
+direct (1, 5, 6) p p0 
+converge (1, 5, 7) p p0 
+direct (1, 5, 7) p p0 
+converge (1, 5, 8) p p0 
+direct (1, 5, 8) p p0 
+converge (1, 5, 9) p p0 
+direct (1, 5, 9) p p0 
+converge (1, 6, 7) p p0 
+direct (1, 6, 7) p p0 
+converge (1, 6, 8) p p0 
+direct (1, 6, 8) p p0 
+converge (1, 6, 9) p p0 
+direct (1, 6, 9) p p0 
+converge (1, 7, 8) p p0 
+direct (1, 7, 8) p p0 
+converge (1, 7, 9) p p0 
+direct (1, 7, 9) p p0 
+converge (1, 8, 9) p p0 
+direct (1, 8, 9) p p0 
+converge (2, 3, 4) p p0 
+direct (2, 3, 4) p p0 
+converge (2, 3, 5) p 
+direct (2, 3, 5) p 
+converge (2, 3, 7) p p0 
+direct (2, 3, 7) p p0 
+converge (2, 4, 5) p p0 
+direct (2, 4, 5) p p0 
+converge (2, 4, 6) p p0 
+direct (2, 4, 6) p p0 
+converge (2, 4, 7) p p0 
+direct (2, 4, 7) p p0 
+converge (2, 4, 8) p p0 
+direct (2, 4, 8) p p0 
+converge (2, 4, 9) p p0 
+direct (2, 4, 9) p p0 
+converge (2, 5, 7) p p0 
+direct (2, 5, 7) p p0 
+converge (2, 5, 8) p p0 
+direct (2, 5, 8) p p0 
+converge (2, 6, 7) p p0 
+direct (2, 6, 7) p p0 
+converge (2, 6, 9) p 
+direct (2, 6, 9) p 
+converge (2, 7, 8) p p0 
+direct (2, 7, 8) p p0 
+converge (2, 7, 9) p p0 
+direct (2, 7, 9) p p0 
+converge (3, 4, 5) p p0 
+direct (3, 4, 5) p p0 
+converge (3, 4, 6) p p0 
+direct (3, 4, 6) p p0 
+converge (3, 4, 7) p p0 
+direct (3, 4, 7) p p0 
+converge (3, 4, 8) p 
+direct (3, 4, 8) p 
+converge (3, 4, 9) p p0 
+direct (3, 4, 9) p p0 
+converge (3, 5, 7) p p0 
+direct (3, 5, 7) p p0 
+converge (3, 6, 7) p p0 
+direct (3, 6, 7) p p0 
+converge (3, 7, 8) p 
+direct (3, 7, 8) p 
+converge (3, 7, 9) p 
+direct (3, 7, 9) p 
+converge (4, 5, 7) p p0 
+direct (4, 5, 7) p p0 
+converge (4, 5, 8) p p0 
+direct (4, 5, 8) p p0 
+converge (4, 5, 9) p 
+direct (4, 5, 9) p 
+converge (4, 6, 7) p p0 
+direct (4, 6, 7) p p0 
+converge (4, 6, 8) p 
+direct (4, 6, 8) p 
+converge (4, 6, 9) p p0 
+direct (4, 6, 9) p p0 
+converge (4, 7, 8) p p0 
+direct (4, 7, 8) p p0 
+converge (4, 7, 9) p p0 
+direct (4, 7, 9) p p0 
+converge (4, 8, 9) p p0 
+direct (4, 8, 9) p p0 
+converge (5, 6, 7) p 
+direct (5, 6, 7) p 
+converge (5, 7, 8) p p0 
+direct (5, 7, 8) p p0 
+converge (5, 7, 9) p p0 
+direct (5, 7, 9) p p0 
+converge (6, 7, 8) p p0 
+direct (6, 7, 8) p p0 
+converge (6, 7, 9) p p0 
+direct (6, 7, 9) p p0 
+converge (7, 8, 9) p p0 
+direct (7, 8, 9) p p0 
+converge (0, 1, 2, 4) p p0 
+direct (0, 1, 2, 4) p p0 
+converge (0, 1, 2, 5) p p0 
+direct (0, 1, 2, 5) p p0 
+converge (0, 1, 2, 6) p p0 
+direct (0, 1, 2, 6) p p0 
+converge (0, 1, 2, 7) p 
+direct (0, 1, 2, 7) p 
+converge (0, 1, 2, 8) p 
+direct (0, 1, 2, 8) p 
+converge (0, 1, 3, 4) p p0 
+direct (0, 1, 3, 4) p p0 
+converge (0, 1, 3, 7) p 
+direct (0, 1, 3, 7) p 
+converge (0, 1, 4, 5) p p0 
+direct (0, 1, 4, 5) p p0 
+converge (0, 1, 4, 6) p p0 
+direct (0, 1, 4, 6) p p0 
+converge (0, 1, 4, 7) p p0 
+direct (0, 1, 4, 7) p p0 
+converge (0, 1, 4, 8) p p0 
+direct (0, 1, 4, 8) p p0 
+converge (0, 1, 4, 9) p p0 
+direct (0, 1, 4, 9) p p0 
+converge (0, 1, 5, 7) p p0 
+direct (0, 1, 5, 7) p p0 
+converge (0, 1, 6, 7) p p0 
+direct (0, 1, 6, 7) p p0 
+converge (0, 1, 7, 8) p p0 
+direct (0, 1, 7, 8) p p0 
+converge (0, 1, 7, 9) p p0 
+direct (0, 1, 7, 9) p p0 
+converge (0, 2, 3, 4) p 
+direct (0, 2, 3, 4) p 
+converge (0, 2, 4, 5) p 
+direct (0, 2, 4, 5) p 
+converge (0, 2, 4, 6) p 
+direct (0, 2, 4, 6) p 
+converge (0, 2, 4, 7) p p0 
+direct (0, 2, 4, 7) p p0 
+converge (0, 2, 5, 7) p p0 
+direct (0, 2, 5, 7) p p0 
+converge (0, 2, 6, 7) p p0 
+direct (0, 2, 6, 7) p p0 
+converge (0, 3, 4, 7) p p0 
+direct (0, 3, 4, 7) p p0 
+converge (0, 4, 5, 7) p 
+direct (0, 4, 5, 7) p 
+converge (0, 4, 6, 7) p 
+direct (0, 4, 6, 7) p 
+converge (0, 4, 7, 8) p 
+direct (0, 4, 7, 8) p 
+converge (0, 4, 7, 9) p p0 
+direct (0, 4, 7, 9) p p0 
+converge (1, 2, 3, 4) p p0 
+direct (1, 2, 3, 4) p p0 
+converge (1, 2, 4, 5) p 
+direct (1, 2, 4, 5) p 
+converge (1, 2, 4, 6) p p0 
+direct (1, 2, 4, 6) p p0 
+converge (1, 2, 4, 8) p 
+direct (1, 2, 4, 8) p 
+converge (1, 2, 5, 8) p 
+direct (1, 2, 5, 8) p 
+converge (1, 2, 6, 7) p 
+direct (1, 2, 6, 7) p 
+converge (1, 3, 4, 5) p 
+direct (1, 3, 4, 5) p 
+converge (1, 3, 4, 6) p p0 
+direct (1, 3, 4, 6) p p0 
+converge (1, 3, 4, 7) p p0 
+direct (1, 3, 4, 7) p p0 
+converge (1, 3, 4, 9) p 
+direct (1, 3, 4, 9) p 
+converge (1, 3, 5, 7) p p0 
+direct (1, 3, 5, 7) p p0 
+converge (1, 3, 6, 7) p 
+direct (1, 3, 6, 7) p 
+converge (1, 3, 7, 8) p 
+direct (1, 3, 7, 8) p 
+converge (1, 4, 5, 7) p p0 
+direct (1, 4, 5, 7) p p0 
+converge (1, 4, 5, 8) p 
+direct (1, 4, 5, 8) p 
+converge (1, 4, 6, 7) p p0 
+direct (1, 4, 6, 7) p p0 
+converge (1, 4, 6, 8) p 
+direct (1, 4, 6, 8) p 
+converge (1, 4, 6, 9) p p0 
+direct (1, 4, 6, 9) p p0 
+converge (1, 4, 7, 8) p p0 
+direct (1, 4, 7, 8) p p0 
+converge (1, 4, 7, 9) p p0 
+direct (1, 4, 7, 9) p p0 
+converge (1, 4, 8, 9) p 
+direct (1, 4, 8, 9) p 
+converge (1, 5, 6, 7) p 
+direct (1, 5, 6, 7) p 
+converge (1, 5, 7, 8) p p0 
+direct (1, 5, 7, 8) p p0 
+converge (1, 5, 7, 9) p 
+direct (1, 5, 7, 9) p 
+converge (1, 6, 7, 8) p 
+direct (1, 6, 7, 8) p 
+converge (1, 6, 7, 9) p p0 
+direct (1, 6, 7, 9) p p0 
+converge (1, 7, 8, 9) p 
+direct (1, 7, 8, 9) p 
+converge (2, 4, 5, 7) p 
+direct (2, 4, 5, 7) p 
+converge (2, 4, 6, 7) p p0 
+direct (2, 4, 6, 7) p p0 
+converge (2, 4, 7, 8) p 
+direct (2, 4, 7, 8) p 
+converge (3, 4, 7, 9) p 
+direct (3, 4, 7, 9) p 
+converge (4, 5, 7, 8) p p0 
+direct (4, 5, 7, 8) p p0 
+converge (4, 5, 7, 9) p p0 
+direct (4, 5, 7, 9) p p0 
+converge (4, 6, 7, 8) p 
+direct (4, 6, 7, 8) p 
+converge (4, 6, 7, 9) p p0 
+direct (4, 6, 7, 9) p p0 
+converge (4, 7, 8, 9) p 
+direct (4, 7, 8, 9) p 
+converge (0, 1, 2, 3, 4) p 
+direct (0, 1, 2, 3, 4) p 
+converge (0, 1, 2, 4, 6) p 
+direct (0, 1, 2, 4, 6) p 
+converge (0, 1, 2, 4, 7) p p0 
+direct (0, 1, 2, 4, 7) p p0 
+converge (0, 1, 3, 4, 7) p p0 
+direct (0, 1, 3, 4, 7) p p0 
+converge (0, 1, 4, 5, 7) p 
+direct (0, 1, 4, 5, 7) p 
+converge (0, 1, 4, 6, 7) p 
+direct (0, 1, 4, 6, 7) p 
+converge (0, 1, 4, 7, 8) p 
+direct (0, 1, 4, 7, 8) p 
+converge (0, 1, 4, 7, 9) p 
+direct (0, 1, 4, 7, 9) p 
+converge (1, 2, 3, 4, 7) p 
+direct (1, 2, 3, 4, 7) p 
+converge (1, 2, 4, 5, 7) p 
+direct (1, 2, 4, 5, 7) p 
+converge (1, 2, 4, 6, 7) p 
+direct (1, 2, 4, 6, 7) p 
+converge (1, 2, 4, 7, 8) p p0 
+direct (1, 2, 4, 7, 8) p p0 
+converge (1, 2, 4, 7, 9) p 
+direct (1, 2, 4, 7, 9) p 
+converge (1, 3, 4, 7, 8) p 
+direct (1, 3, 4, 7, 8) p 
+converge (1, 3, 4, 7, 9) p 
+direct (1, 3, 4, 7, 9) p 
+converge (1, 4, 5, 7, 8) p p0 
+direct (1, 4, 5, 7, 8) p p0 
+converge (1, 4, 5, 7, 9) p 
+direct (1, 4, 5, 7, 9) p 
+converge (1, 4, 6, 7, 8) p 
+direct (1, 4, 6, 7, 8) p 
+converge (1, 4, 6, 7, 9) p p0 
+direct (1, 4, 6, 7, 9) p p0 
+[(0,), (0,), (1,), (1,), (2,), (2,), (3,), (3,), (4,), (4,), (5,), (5,), (6,), (6,), (7,), (7,), (8,), (8,), (9,), (9,), (0, 1), (0, 1), (0, 2), (0, 2), (0, 3), (0, 3), (0, 4), (0, 4), (0, 5), (0, 5), (0, 6), (0, 6), (0, 7), (0, 7), (0, 8), (0, 8), (0, 9), (0, 9), (1, 2), (1, 2), (1, 3), (1, 3), (1, 4), (1, 4), (1, 5), (1, 5), (1, 6), (1, 6), (1, 7), (1, 7), (1, 8), (1, 8), (1, 9), (1, 9), (2, 3), (2, 3), (2, 4), (2, 4), (2, 5), (2, 5), (2, 6), (2, 6), (2, 7), (2, 7), (2, 8), (2, 8), (2, 9), (2, 9), (3, 4), (3, 4), (3, 5), (3, 5), (3, 6), (3, 6), (3, 7), (3, 7), (3, 8), (3, 8), (3, 9), (3, 9), (4, 5), (4, 5), (4, 6), (4, 6), (4, 7), (4, 7), (4, 8), (4, 8), (4, 9), (4, 9), (5, 6), (5, 6), (5, 7), (5, 7), (5, 8), (5, 8), (5, 9), (5, 9), (6, 7), (6, 7), (6, 8), (6, 8), (6, 9), (6, 9), (7, 8), (7, 8), (7, 9), (7, 9), (8, 9), (8, 9), (0, 1, 2), (0, 1, 2), (0, 1, 3), (0, 1, 3), (0, 1, 4), (0, 1, 4), (0, 1, 5), (0, 1, 5), (0, 1, 6), (0, 1, 6), (0, 1, 7), (0, 1, 7), (0, 1, 8), (0, 1, 8), (0, 1, 9), (0, 1, 9), (0, 2, 4), (0, 2, 4), (0, 2, 5), (0, 2, 5), (0, 2, 6), (0, 2, 6), (0, 2, 7), (0, 2, 7), (0, 2, 8), (0, 2, 8), (0, 2, 9), (0, 2, 9), (0, 3, 4), (0, 3, 4), (0, 3, 7), (0, 3, 7), (0, 4, 5), (0, 4, 5), (0, 4, 6), (0, 4, 6), (0, 4, 7), (0, 4, 7), (0, 4, 8), (0, 4, 8), (0, 4, 9), (0, 4, 9), (0, 5, 7), (0, 5, 7), (0, 6, 7), (0, 6, 7), (0, 7, 8), (0, 7, 8), (0, 7, 9), (0, 7, 9), (1, 2, 3), (1, 2, 3), (1, 2, 4), (1, 2, 4), (1, 2, 5), (1, 2, 5), (1, 2, 6), (1, 2, 6), (1, 2, 7), (1, 2, 7), (1, 2, 8), (1, 2, 8), (1, 2, 9), (1, 2, 9), (1, 3, 4), (1, 3, 4), (1, 3, 5), (1, 3, 5), (1, 3, 6), (1, 3, 6), (1, 3, 7), (1, 3, 7), (1, 3, 8), (1, 3, 8), (1, 3, 9), (1, 3, 9), (1, 4, 5), (1, 4, 5), (1, 4, 6), (1, 4, 6), (1, 4, 7), (1, 4, 7), (1, 4, 8), (1, 4, 8), (1, 4, 9), (1, 4, 9), (1, 5, 6), (1, 5, 6), (1, 5, 7), (1, 5, 7), (1, 5, 8), (1, 5, 8), (1, 5, 9), (1, 5, 9), (1, 6, 7), (1, 6, 7), (1, 6, 8), (1, 6, 8), (1, 6, 9), (1, 6, 9), (1, 7, 8), (1, 7, 8), (1, 7, 9), (1, 7, 9), (1, 8, 9), (1, 8, 9), (2, 3, 4), (2, 3, 4), (2, 3, 5), (2, 3, 5), (2, 3, 7), (2, 3, 7), (2, 4, 5), (2, 4, 5), (2, 4, 6), (2, 4, 6), (2, 4, 7), (2, 4, 7), (2, 4, 8), (2, 4, 8), (2, 4, 9), (2, 4, 9), (2, 5, 7), (2, 5, 7), (2, 5, 8), (2, 5, 8), (2, 6, 7), (2, 6, 7), (2, 6, 9), (2, 6, 9), (2, 7, 8), (2, 7, 8), (2, 7, 9), (2, 7, 9), (3, 4, 5), (3, 4, 5), (3, 4, 6), (3, 4, 6), (3, 4, 7), (3, 4, 7), (3, 4, 8), (3, 4, 8), (3, 4, 9), (3, 4, 9), (3, 5, 7), (3, 5, 7), (3, 6, 7), (3, 6, 7), (3, 7, 8), (3, 7, 8), (3, 7, 9), (3, 7, 9), (4, 5, 7), (4, 5, 7), (4, 5, 8), (4, 5, 8), (4, 5, 9), (4, 5, 9), (4, 6, 7), (4, 6, 7), (4, 6, 8), (4, 6, 8), (4, 6, 9), (4, 6, 9), (4, 7, 8), (4, 7, 8), (4, 7, 9), (4, 7, 9), (4, 8, 9), (4, 8, 9), (5, 6, 7), (5, 6, 7), (5, 7, 8), (5, 7, 8), (5, 7, 9), (5, 7, 9), (6, 7, 8), (6, 7, 8), (6, 7, 9), (6, 7, 9), (7, 8, 9), (7, 8, 9), (0, 1, 2, 4), (0, 1, 2, 4), (0, 1, 2, 5), (0, 1, 2, 5), (0, 1, 2, 6), (0, 1, 2, 6), (0, 1, 2, 7), (0, 1, 2, 7), (0, 1, 2, 8), (0, 1, 2, 8), (0, 1, 3, 4), (0, 1, 3, 4), (0, 1, 3, 7), (0, 1, 3, 7), (0, 1, 4, 5), (0, 1, 4, 5), (0, 1, 4, 6), (0, 1, 4, 6), (0, 1, 4, 7), (0, 1, 4, 7), (0, 1, 4, 8), (0, 1, 4, 8), (0, 1, 4, 9), (0, 1, 4, 9), (0, 1, 5, 7), (0, 1, 5, 7), (0, 1, 6, 7), (0, 1, 6, 7), (0, 1, 7, 8), (0, 1, 7, 8), (0, 1, 7, 9), (0, 1, 7, 9), (0, 2, 3, 4), (0, 2, 3, 4), (0, 2, 4, 5), (0, 2, 4, 5), (0, 2, 4, 6), (0, 2, 4, 6), (0, 2, 4, 7), (0, 2, 4, 7), (0, 2, 5, 7), (0, 2, 5, 7), (0, 2, 6, 7), (0, 2, 6, 7), (0, 3, 4, 7), (0, 3, 4, 7), (0, 4, 5, 7), (0, 4, 5, 7), (0, 4, 6, 7), (0, 4, 6, 7), (0, 4, 7, 8), (0, 4, 7, 8), (0, 4, 7, 9), (0, 4, 7, 9), (1, 2, 3, 4), (1, 2, 3, 4), (1, 2, 4, 5), (1, 2, 4, 5), (1, 2, 4, 6), (1, 2, 4, 6), (1, 2, 4, 8), (1, 2, 4, 8), (1, 2, 5, 8), (1, 2, 5, 8), (1, 2, 6, 7), (1, 2, 6, 7), (1, 3, 4, 5), (1, 3, 4, 5), (1, 3, 4, 6), (1, 3, 4, 6), (1, 3, 4, 7), (1, 3, 4, 7), (1, 3, 4, 9), (1, 3, 4, 9), (1, 3, 5, 7), (1, 3, 5, 7), (1, 3, 6, 7), (1, 3, 6, 7), (1, 3, 7, 8), (1, 3, 7, 8), (1, 4, 5, 7), (1, 4, 5, 7), (1, 4, 5, 8), (1, 4, 5, 8), (1, 4, 6, 7), (1, 4, 6, 7), (1, 4, 6, 8), (1, 4, 6, 8), (1, 4, 6, 9), (1, 4, 6, 9), (1, 4, 7, 8), (1, 4, 7, 8), (1, 4, 7, 9), (1, 4, 7, 9), (1, 4, 8, 9), (1, 4, 8, 9), (1, 5, 6, 7), (1, 5, 6, 7), (1, 5, 7, 8), (1, 5, 7, 8), (1, 5, 7, 9), (1, 5, 7, 9), (1, 6, 7, 8), (1, 6, 7, 8), (1, 6, 7, 9), (1, 6, 7, 9), (1, 7, 8, 9), (1, 7, 8, 9), (2, 4, 5, 7), (2, 4, 5, 7), (2, 4, 6, 7), (2, 4, 6, 7), (2, 4, 7, 8), (2, 4, 7, 8), (3, 4, 7, 9), (3, 4, 7, 9), (4, 5, 7, 8), (4, 5, 7, 8), (4, 5, 7, 9), (4, 5, 7, 9), (4, 6, 7, 8), (4, 6, 7, 8), (4, 6, 7, 9), (4, 6, 7, 9), (4, 7, 8, 9), (4, 7, 8, 9), (0, 1, 2, 3, 4), (0, 1, 2, 3, 4), (0, 1, 2, 4, 6), (0, 1, 2, 4, 6), (0, 1, 2, 4, 7), (0, 1, 2, 4, 7), (0, 1, 3, 4, 7), (0, 1, 3, 4, 7), (0, 1, 4, 5, 7), (0, 1, 4, 5, 7), (0, 1, 4, 6, 7), (0, 1, 4, 6, 7), (0, 1, 4, 7, 8), (0, 1, 4, 7, 8), (0, 1, 4, 7, 9), (0, 1, 4, 7, 9), (1, 2, 3, 4, 7), (1, 2, 3, 4, 7), (1, 2, 4, 5, 7), (1, 2, 4, 5, 7), (1, 2, 4, 6, 7), (1, 2, 4, 6, 7), (1, 2, 4, 7, 8), (1, 2, 4, 7, 8), (1, 2, 4, 7, 9), (1, 2, 4, 7, 9), (1, 3, 4, 7, 8), (1, 3, 4, 7, 8), (1, 3, 4, 7, 9), (1, 3, 4, 7, 9), (1, 4, 5, 7, 8), (1, 4, 5, 7, 8), (1, 4, 5, 7, 9), (1, 4, 5, 7, 9), (1, 4, 6, 7, 8), (1, 4, 6, 7, 8), (1, 4, 6, 7, 9), (1, 4, 6, 7, 9)]
+********************************************************************************
+# second question #
+(0,)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(1,)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(2,)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(3,)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(4,)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(5,)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(6,)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(7,)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(8,)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(9,)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(0, 1)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.02
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.04
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.21
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.295
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.54
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.74
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.015 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.025 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.055 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.085 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.235 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.325 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.59 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(0, 2)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.005
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.015
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.07
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.07
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.125
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.295
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.435
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.695
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.055 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.07 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.125 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.225 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.43 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.635 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(0, 3)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.005
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.02
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.02
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.035
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.08
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.13
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.16
+When err is 10 , missing ERR rate: 0.005 , mistake ERR rate: 0.21
+When err is 11 , missing ERR rate: 0.005 , mistake ERR rate: 0.26
+When err is 12 , missing ERR rate: 0.015 , mistake ERR rate: 0.295
+When err is 13 , missing ERR rate: 0.02 , mistake ERR rate: 0.37
+When err is 14 , missing ERR rate: 0.025 , mistake ERR rate: 0.51
+When err is 15 , missing ERR rate: 0.065 , mistake ERR rate: 0.7
+When err is 16 , missing ERR rate: 0.045 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.055 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.115 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.145 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.115 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.195 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.26 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.275 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.37 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.345 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.545 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.57 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.67 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.75 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.805 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.91 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(0, 4)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.005
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.015
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.01
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.07
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.145
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.325
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.505
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.72
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.025 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.065 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.075 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.21 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.345 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.5 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(0, 5)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.015
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.045
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.09
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.135
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.225
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.275
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.38
+When err is 14 , missing ERR rate: 0.005 , mistake ERR rate: 0.5
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.765
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.03 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.075 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.045 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.145 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.185 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.29 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.38 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.495 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.74 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(0, 6)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.01
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.025
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.05
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.115
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.195
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.22
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.32
+When err is 11 , missing ERR rate: 0.005 , mistake ERR rate: 0.41
+When err is 12 , missing ERR rate: 0.005 , mistake ERR rate: 0.5
+When err is 13 , missing ERR rate: 0.005 , mistake ERR rate: 0.545
+When err is 14 , missing ERR rate: 0.005 , mistake ERR rate: 0.59
+When err is 15 , missing ERR rate: 0.025 , mistake ERR rate: 0.745
+When err is 16 , missing ERR rate: 0.015 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.035 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.03 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.065 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.13 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.15 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.16 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.17 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.25 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.325 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.405 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.49 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.58 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.67 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.825 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.835 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(0, 7)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.015
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.015
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.095
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.15
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.345
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.535
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.785
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.03 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.1 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.165 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.37 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.63 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(0, 8)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.02
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.065
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.07
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.14
+When err is 6 , missing ERR rate: 0.005 , mistake ERR rate: 0.165
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.31
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.365
+When err is 9 , missing ERR rate: 0.015 , mistake ERR rate: 0.375
+When err is 10 , missing ERR rate: 0.005 , mistake ERR rate: 0.44
+When err is 11 , missing ERR rate: 0.02 , mistake ERR rate: 0.49
+When err is 12 , missing ERR rate: 0.03 , mistake ERR rate: 0.57
+When err is 13 , missing ERR rate: 0.065 , mistake ERR rate: 0.59
+When err is 14 , missing ERR rate: 0.09 , mistake ERR rate: 0.65
+When err is 15 , missing ERR rate: 0.055 , mistake ERR rate: 0.745
+When err is 16 , missing ERR rate: 0.14 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.145 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.18 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.265 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.29 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.345 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.355 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.45 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.52 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.515 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.575 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.675 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.765 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.77 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.845 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.925 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(0, 9)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.01
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.02
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.045
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.095
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.16
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.18
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.25
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.39
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.365
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.45
+When err is 13 , missing ERR rate: 0.01 , mistake ERR rate: 0.535
+When err is 14 , missing ERR rate: 0.015 , mistake ERR rate: 0.65
+When err is 15 , missing ERR rate: 0.025 , mistake ERR rate: 0.775
+When err is 16 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.035 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.05 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.075 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.08 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.155 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.155 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.26 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.3 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.365 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.415 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.515 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.55 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.63 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.75 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.85 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(1, 2)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.005
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.01
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.015
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.085
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.115
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.1
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.14
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.37
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.405
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.455
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.75
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.015 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.015 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.01 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.06 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.085 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.115 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.245 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.255 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.405 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.56 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.685 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(1, 3)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.015
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.005
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.07
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.125
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.285
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.595
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.75
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.025 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.025 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.025 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.085 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.205 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.305 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.555 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(1, 4)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.025
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.06
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.15
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.235
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.5
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.735
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.01 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.015 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.045 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.06 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.16 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.265 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.405 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.62 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(1, 5)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.005
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.02
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.03
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.155
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.33
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.505
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.735
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.025 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.01 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.1 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.215 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.385 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.625 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(1, 6)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.01
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.035
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.07
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.155
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.285
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.525
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.695
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.025 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.035 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.095 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.19 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.34 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.68 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(1, 7)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.005
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.04
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.06
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.135
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.27
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.505
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.795
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.01 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.025 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.035 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.105 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.18 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.39 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.66 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(1, 8)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.015
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.01
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.055
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.15
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.26
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.52
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.765
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.025 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.055 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.085 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.175 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.375 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.65 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(1, 9)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.04
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.04
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.17
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.28
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.485
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.76
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.01 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.025 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.07 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.15 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.35 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.61 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(2, 3)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.005
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.02
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.06
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.09
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.135
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.265
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.365
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.45
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.72
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.01 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.01 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.03 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.045 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.045 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.125 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.13 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.23 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.235 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.35 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.405 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.55 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.755 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(2, 4)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.015
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.045
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.09
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.16
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.25
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.34
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.565
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.735
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.01 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.03 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.03 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.105 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.24 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.295 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.385 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.705 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(2, 5)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.015
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.035
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.11
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.125
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.24
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.335
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.485
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.745
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.015 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.01 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.01 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.045 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.055 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.185 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.17 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.3 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.4 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.685 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(2, 6)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.005
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.02
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.025
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.03
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.08
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.15
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.345
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.45
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.715
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.015 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.03 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.085 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.13 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.205 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.415 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.6 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(2, 7)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.015
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.025
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.035
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.11
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.115
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.21
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.28
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.37
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.495
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.775
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.01 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.015 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.01 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.04 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.08 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.125 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.22 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.285 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.315 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.455 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.72 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(2, 8)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.02
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.035
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.12
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.14
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.225
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.35
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.52
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.735
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.015 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.015 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.06 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.115 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.175 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.345 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.485 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.665 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(2, 9)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.01
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.03
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.055
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.075
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.13
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.21
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.255
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.355
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.52
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.745
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.025 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.055 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.045 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.11 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.175 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.22 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.325 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.41 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.545 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.68 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(3, 4)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.005
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.03
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.06
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.12
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.255
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.25
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.48
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.785
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.01 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.04 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.1 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.225 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.355 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.625 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(3, 5)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.005
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.005
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.02
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.03
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.135
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.18
+When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.23
+When err is 11 , missing ERR rate: 0.005 , mistake ERR rate: 0.3
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.315
+When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.445
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.565
+When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.805
+When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.01 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.005 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.02 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.03 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.045 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.055 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.095 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.075 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.21 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.24 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.31 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.425 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.535 , mistake ERR rate: 1.0
+When err is 30 , missing ERR rate: 0.66 , mistake ERR rate: 1.0
+When err is 31 , missing ERR rate: 0.755 , mistake ERR rate: 1.0
+When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+(3, 6)
+When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.03
+When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.04
+When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.055
+When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.095
+When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.145
+When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.27
+When err is 10 , missing ERR rate: 0.005 , mistake ERR rate: 0.285
+When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.38
+When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.44
+When err is 13 , missing ERR rate: 0.005 , mistake ERR rate: 0.555
+When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.63
+When err is 15 , missing ERR rate: 0.01 , mistake ERR rate: 0.75
+When err is 16 , missing ERR rate: 0.035 , mistake ERR rate: 1.0
+When err is 17 , missing ERR rate: 0.03 , mistake ERR rate: 1.0
+When err is 18 , missing ERR rate: 0.08 , mistake ERR rate: 1.0
+When err is 19 , missing ERR rate: 0.045 , mistake ERR rate: 1.0
+When err is 20 , missing ERR rate: 0.075 , mistake ERR rate: 1.0
+When err is 21 , missing ERR rate: 0.075 , mistake ERR rate: 1.0
+When err is 22 , missing ERR rate: 0.195 , mistake ERR rate: 1.0
+When err is 23 , missing ERR rate: 0.185 , mistake ERR rate: 1.0
+When err is 24 , missing ERR rate: 0.29 , mistake ERR rate: 1.0
+When err is 25 , missing ERR rate: 0.345 , mistake ERR rate: 1.0
+When err is 26 , missing ERR rate: 0.425 , mistake ERR rate: 1.0
+When err is 27 , missing ERR rate: 0.495 , mistake ERR rate: 1.0
+When err is 28 , missing ERR rate: 0.585 , mistake ERR rate: 1.0
+When err is 29 , missing ERR rate: 0.64 , m
