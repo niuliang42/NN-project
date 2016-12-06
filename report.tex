@@ -8,7 +8,7 @@
 %\usepackage{fullpage}
 
 
-\title{Neural Network Computing\\Homework 5}
+\title{Neural Network Computing\\Project}
 \author{Liang Niu\\N19486574\\ln932@nyu.edu}
 
 \begin{document}
@@ -26,6 +26,9 @@
     SOURCE CODE (Python 2.7, numpy needed, anaconda recommended):
     \lstinputlisting[language=Python]{am.py}
   \subsection{Some Explaination}
+  \paragraph{Github}
+  https://github.com/wangxiaodiu/NN-project\\
+  please check this github repo to check full output and everything.
   \paragraph{Run Environment}
   I also included a source file of my program in the zipped file. If you want to
   run it, please make sure that you have numpy installed. I am using Python 2.7
@@ -72,7 +75,17 @@
   result by using the weght matrix with all diagonal elemets set 0.\\
   As we can see, there are 456 kinds of combinations that can be stored and
   retrived smoothly. Thus the maximum capacity of AM in this problem is 5.\\
-  The full results of combinations that can be stored is attached.
+  The full results of combinations that can be stored is attached.\\
+  Also, by analysing the patterns that can be combined and stored, we can see
+  that most of them are ``more orthogonal'' than those cannot. For example,
+  $(0, 1, 2, 3, 4)$ and $(0, 1, 2, 4, 6)$can be stored, but $(0, 1, 2, 4, 5)$
+  cannot be stored, by looking into the patterns, we can see that 5 is
+  intersected a lot with 0, 2, 3, especially the first 6 points and the last 6
+  points. Also, we can notice that number 4's pattern is not orthogonal with
+  most patterns, which is corresponded to that 4 appears a lot in the
+  combinations that can be stored, becasue the network don't need too much
+  ``capacity'' for number 4 to store.\\
+  So the conclusion is that more orthogonal, better to store in network.
 
 
 
@@ -87,6 +100,119 @@
   tolerate decreased.\\
   3. When error number is big enough, the network will only give out wrong
   result.\\
+  4. Normally, missing error rate is lower that mistake error rate.\\
+  Here is a part of the output, just to demonstrate some of the conclusion:
+  \begin{verbatim}
+    (0,)
+    When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 2 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 3 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 4 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 5 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 6 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 7 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 8 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 9 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 10 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 11 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 12 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 13 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 14 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 15 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 16 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 17 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 18 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 19 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 20 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 21 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 22 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 23 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 24 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 25 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 26 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 27 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 28 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 29 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 30 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 31 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 32 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 33 , missing ERR rate: 0.0 , mistake ERR rate: 1.0
+    When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+    (1, 3, 9)
+    When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 1 , missing ERR rate: 0.0 , mistake ERR rate: 0.0633333333333
+    When err is 2 , missing ERR rate: 0.02 , mistake ERR rate: 0.19
+    When err is 3 , missing ERR rate: 0.0233333333333 , mistake ERR rate: 0.173333333333
+    When err is 4 , missing ERR rate: 0.07 , mistake ERR rate: 0.3
+    When err is 5 , missing ERR rate: 0.0433333333333 , mistake ERR rate: 0.31
+    When err is 6 , missing ERR rate: 0.14 , mistake ERR rate: 0.423333333333
+    When err is 7 , missing ERR rate: 0.09 , mistake ERR rate: 0.47
+    When err is 8 , missing ERR rate: 0.146666666667 , mistake ERR rate: 0.5
+    When err is 9 , missing ERR rate: 0.14 , mistake ERR rate: 0.526666666667
+    When err is 10 , missing ERR rate: 0.233333333333 , mistake ERR rate: 0.62
+    When err is 11 , missing ERR rate: 0.173333333333 , mistake ERR rate: 0.636666666667
+    When err is 12 , missing ERR rate: 0.28 , mistake ERR rate: 0.75
+    When err is 13 , missing ERR rate: 0.23 , mistake ERR rate: 0.823333333333
+    When err is 14 , missing ERR rate: 0.34 , mistake ERR rate: 0.93
+    When err is 15 , missing ERR rate: 0.296666666667 , mistake ERR rate: 0.98
+    When err is 16 , missing ERR rate: 0.376666666667 , mistake ERR rate: 1.0
+    When err is 17 , missing ERR rate: 0.34 , mistake ERR rate: 1.0
+    When err is 18 , missing ERR rate: 0.453333333333 , mistake ERR rate: 1.0
+    When err is 19 , missing ERR rate: 0.393333333333 , mistake ERR rate: 1.0
+    When err is 20 , missing ERR rate: 0.48 , mistake ERR rate: 1.0
+    When err is 21 , missing ERR rate: 0.4 , mistake ERR rate: 1.0
+    When err is 22 , missing ERR rate: 0.556666666667 , mistake ERR rate: 1.0
+    When err is 23 , missing ERR rate: 0.493333333333 , mistake ERR rate: 1.0
+    When err is 24 , missing ERR rate: 0.62 , mistake ERR rate: 1.0
+    When err is 25 , missing ERR rate: 0.593333333333 , mistake ERR rate: 1.0
+    When err is 26 , missing ERR rate: 0.66 , mistake ERR rate: 1.0
+    When err is 27 , missing ERR rate: 0.63 , mistake ERR rate: 1.0
+    When err is 28 , missing ERR rate: 0.763333333333 , mistake ERR rate: 1.0
+    When err is 29 , missing ERR rate: 0.756666666667 , mistake ERR rate: 1.0
+    When err is 30 , missing ERR rate: 0.94 , mistake ERR rate: 1.0
+    When err is 31 , missing ERR rate: 0.896666666667 , mistake ERR rate: 1.0
+    When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+    When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+    When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+    (1, 4, 6, 7, 9)
+    When err is 0 , missing ERR rate: 0.0 , mistake ERR rate: 0.0
+    When err is 1 , missing ERR rate: 0.08 , mistake ERR rate: 0.2
+    When err is 2 , missing ERR rate: 0.168 , mistake ERR rate: 0.2
+    When err is 3 , missing ERR rate: 0.138 , mistake ERR rate: 0.32
+    When err is 4 , missing ERR rate: 0.18 , mistake ERR rate: 0.356
+    When err is 5 , missing ERR rate: 0.152 , mistake ERR rate: 0.49
+    When err is 6 , missing ERR rate: 0.208 , mistake ERR rate: 0.542
+    When err is 7 , missing ERR rate: 0.19 , mistake ERR rate: 0.654
+    When err is 8 , missing ERR rate: 0.27 , mistake ERR rate: 0.754
+    When err is 9 , missing ERR rate: 0.252 , mistake ERR rate: 0.856
+    When err is 10 , missing ERR rate: 0.312 , mistake ERR rate: 0.914
+    When err is 11 , missing ERR rate: 0.266 , mistake ERR rate: 0.968
+    When err is 12 , missing ERR rate: 0.362 , mistake ERR rate: 0.99
+    When err is 13 , missing ERR rate: 0.33 , mistake ERR rate: 1.0
+    When err is 14 , missing ERR rate: 0.426 , mistake ERR rate: 1.0
+    When err is 15 , missing ERR rate: 0.398 , mistake ERR rate: 1.0
+    When err is 16 , missing ERR rate: 0.476 , mistake ERR rate: 1.0
+    When err is 17 , missing ERR rate: 0.436 , mistake ERR rate: 1.0
+    When err is 18 , missing ERR rate: 0.57 , mistake ERR rate: 1.0
+    When err is 19 , missing ERR rate: 0.518 , mistake ERR rate: 1.0
+    When err is 20 , missing ERR rate: 0.638 , mistake ERR rate: 1.0
+    When err is 21 , missing ERR rate: 0.57 , mistake ERR rate: 1.0
+    When err is 22 , missing ERR rate: 0.692 , mistake ERR rate: 1.0
+    When err is 23 , missing ERR rate: 0.71 , mistake ERR rate: 1.0
+    When err is 24 , missing ERR rate: 0.81 , mistake ERR rate: 1.0
+    When err is 25 , missing ERR rate: 0.756 , mistake ERR rate: 1.0
+    When err is 26 , missing ERR rate: 0.906 , mistake ERR rate: 1.0
+    When err is 27 , missing ERR rate: 0.88 , mistake ERR rate: 1.0
+    When err is 28 , missing ERR rate: 0.978 , mistake ERR rate: 1.0
+    When err is 29 , missing ERR rate: 0.958 , mistake ERR rate: 1.0
+    When err is 30 , missing ERR rate: 0.998 , mistake ERR rate: 1.0
+    When err is 31 , missing ERR rate: 0.994 , mistake ERR rate: 1.0
+    When err is 32 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+    When err is 33 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+    When err is 34 , missing ERR rate: 1.0 , mistake ERR rate: 1.0
+  \end{verbatim}
+  
 
   \subsection{Q3}
   For this question, I just do the experiments under those patterns that can be
@@ -94,7 +220,7 @@
   spurious patterns looks like some of the train patterns very much, just with
   some points flipped or missing. For example, there are some spurious
   patterns(1 is \#, -1 is space, 0 is ?) in the following figure.\\
-  \begin{figure}
+  % \begin{figure}
   \begin{verbatim}
               ###  |  ###  |     #
              #   # | #   # |    ## 
@@ -113,7 +239,7 @@
               ###  | ####  |  ###
              ---------------------
   \end{verbatim}
-  \end{figure}
+  % \end{figure}
   In the number 9, some points are missing. In the number 2, some points are
   flipped(from 1 to -1), in the number 4, some points which should be -1 are missing.\\
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.7)  6 DEC 2016 17:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.7)  6 DEC 2016 17:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -728,43 +728,601 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 (/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
 
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 80--90
+[6] [7]
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 10 , missing ERR rate: 0.0 , mistake ERR rat
+e: 0.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 11 , missing ERR rate: 0.0 , mistake ERR rat
+e: 0.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 12 , missing ERR rate: 0.0 , mistake ERR rat
+e: 0.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 13 , missing ERR rate: 0.0 , mistake ERR rat
+e: 0.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 14 , missing ERR rate: 0.0 , mistake ERR rat
+e: 0.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 15 , missing ERR rate: 0.0 , mistake ERR rat
+e: 0.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 16 , missing ERR rate: 0.0 , mistake ERR rat
+e: 0.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 17 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 18 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 19 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 20 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 21 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 22 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 23 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 24 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 25 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 26 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 27 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 28 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 29 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 30 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 31 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 32 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 33 , missing ERR rate: 0.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 34 , missing ERR rate: 1.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 1 , missing ERR rate: 0.0 , mistake ERR rate
+: 0.0633333333333[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 2 , missing ERR rate: 0.02 , mistake ERR rat
+e: 0.19[] 
+ []
+
+
+Overfull \hbox (116.99597pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 3 , missing ERR rate: 0.0233333333333 , mist
+ake ERR rate: 0.173333333333[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 4 , missing ERR rate: 0.07 , mistake ERR rat
+e: 0.3[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 5 , missing ERR rate: 0.0433333333333 , mist
+ake ERR rate: 0.31[] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 6 , missing ERR rate: 0.14 , mistake ERR rat
+e: 0.423333333333[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 7 , missing ERR rate: 0.09 , mistake ERR rat
+e: 0.47[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 8 , missing ERR rate: 0.146666666667 , mista
+ke ERR rate: 0.5[] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 9 , missing ERR rate: 0.14 , mistake ERR rat
+e: 0.526666666667[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 10 , missing ERR rate: 0.233333333333 , mist
+ake ERR rate: 0.62[] 
+ []
+
+
+Overfull \hbox (116.99597pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 11 , missing ERR rate: 0.173333333333 , mist
+ake ERR rate: 0.636666666667[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 12 , missing ERR rate: 0.28 , mistake ERR ra
+te: 0.75[] 
+ []
+
+[8]
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 13 , missing ERR rate: 0.23 , mistake ERR ra
+te: 0.823333333333[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 14 , missing ERR rate: 0.34 , mistake ERR ra
+te: 0.93[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 15 , missing ERR rate: 0.296666666667 , mist
+ake ERR rate: 0.98[] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 16 , missing ERR rate: 0.376666666667 , mist
+ake ERR rate: 1.0[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 17 , missing ERR rate: 0.34 , mistake ERR ra
+te: 1.0[] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 18 , missing ERR rate: 0.453333333333 , mist
+ake ERR rate: 1.0[] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 19 , missing ERR rate: 0.393333333333 , mist
+ake ERR rate: 1.0[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 20 , missing ERR rate: 0.48 , mistake ERR ra
+te: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 21 , missing ERR rate: 0.4 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 22 , missing ERR rate: 0.556666666667 , mist
+ake ERR rate: 1.0[] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 23 , missing ERR rate: 0.493333333333 , mist
+ake ERR rate: 1.0[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 24 , missing ERR rate: 0.62 , mistake ERR ra
+te: 1.0[] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 25 , missing ERR rate: 0.593333333333 , mist
+ake ERR rate: 1.0[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 26 , missing ERR rate: 0.66 , mistake ERR ra
+te: 1.0[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 27 , missing ERR rate: 0.63 , mistake ERR ra
+te: 1.0[] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 28 , missing ERR rate: 0.763333333333 , mist
+ake ERR rate: 1.0[] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 29 , missing ERR rate: 0.756666666667 , mist
+ake ERR rate: 1.0[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 30 , missing ERR rate: 0.94 , mistake ERR ra
+te: 1.0[] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 31 , missing ERR rate: 0.896666666667 , mist
+ake ERR rate: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 32 , missing ERR rate: 1.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 33 , missing ERR rate: 1.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 34 , missing ERR rate: 1.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 1 , missing ERR rate: 0.08 , mistake ERR rat
+e: 0.2[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 2 , missing ERR rate: 0.168 , mistake ERR ra
+te: 0.2[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 3 , missing ERR rate: 0.138 , mistake ERR ra
+te: 0.32[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 4 , missing ERR rate: 0.18 , mistake ERR rat
+e: 0.356[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 5 , missing ERR rate: 0.152 , mistake ERR ra
+te: 0.49[] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 6 , missing ERR rate: 0.208 , mistake ERR ra
+te: 0.542[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 7 , missing ERR rate: 0.19 , mistake ERR rat
+e: 0.654[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 8 , missing ERR rate: 0.27 , mistake ERR rat
+e: 0.754[] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 9 , missing ERR rate: 0.252 , mistake ERR ra
+te: 0.856[] 
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 10 , missing ERR rate: 0.312 , mistake ERR r
+ate: 0.914[] 
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 11 , missing ERR rate: 0.266 , mistake ERR r
+ate: 0.968[] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 12 , missing ERR rate: 0.362 , mistake ERR r
+ate: 0.99[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 13 , missing ERR rate: 0.33 , mistake ERR ra
+te: 1.0[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 14 , missing ERR rate: 0.426 , mistake ERR r
+ate: 1.0[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 15 , missing ERR rate: 0.398 , mistake ERR r
+ate: 1.0[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 16 , missing ERR rate: 0.476 , mistake ERR r
+ate: 1.0[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 17 , missing ERR rate: 0.436 , mistake ERR r
+ate: 1.0[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 18 , missing ERR rate: 0.57 , mistake ERR ra
+te: 1.0[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 19 , missing ERR rate: 0.518 , mistake ERR r
+ate: 1.0[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 20 , missing ERR rate: 0.638 , mistake ERR r
+ate: 1.0[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 21 , missing ERR rate: 0.57 , mistake ERR ra
+te: 1.0[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 22 , missing ERR rate: 0.692 , mistake ERR r
+ate: 1.0[] 
+ []
+
+[9]
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 23 , missing ERR rate: 0.71 , mistake ERR ra
+te: 1.0[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 24 , missing ERR rate: 0.81 , mistake ERR ra
+te: 1.0[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 25 , missing ERR rate: 0.756 , mistake ERR r
+ate: 1.0[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 26 , missing ERR rate: 0.906 , mistake ERR r
+ate: 1.0[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 27 , missing ERR rate: 0.88 , mistake ERR ra
+te: 1.0[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 28 , missing ERR rate: 0.978 , mistake ERR r
+ate: 1.0[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 29 , missing ERR rate: 0.958 , mistake ERR r
+ate: 1.0[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 30 , missing ERR rate: 0.998 , mistake ERR r
+ate: 1.0[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 31 , missing ERR rate: 0.994 , mistake ERR r
+ate: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 32 , missing ERR rate: 1.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 33 , missing ERR rate: 1.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 214--214
+[]    \OT1/cmtt/m/n/10 When err is 34 , missing ERR rate: 1.0 , mistake ERR rat
+e: 1.0[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--224
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--119
+Underfull \hbox (badness 10000) in paragraph at lines 243--245
 
  []
 
-[7] [8] (./report.aux) ) 
+[10] (./report.aux) ) 
 Here is how much of TeX's memory you used:
  14202 strings out of 493027
  284017 string characters out of 6134070
- 380206 words of memory out of 5000000
+ 380352 words of memory out of 5000000
  17480 multiletter control sequences out of 15000+600000
  9537 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,66p,431b,1613s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmtt10.pfb>
-Output written on report.pdf (8 pages, 140121 bytes).
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+tt10.pfb>
+Output written on report.pdf (10 pages, 147947 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
